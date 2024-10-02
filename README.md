@@ -1,6 +1,10 @@
 # TMail
 Forget about spam, advertising messages, hacking and bot attacks. Keep your real mailbox clean and safe. Temp Mail provides a secure, anonymous, free and one-time temporary email address.
 
+# Install
+```bash
+pip install TMail==0.1
+```
 # Usage Code
 ```py
 from TMail import TMail
